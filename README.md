@@ -1,2 +1,2 @@
-# Arrays-
-Code samples for arrays data structure
+# Arrays And String
+Code samples for arrays and string data structure
